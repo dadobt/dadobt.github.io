@@ -68,9 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+  github: dadobt
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -88,7 +86,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -139,7 +137,7 @@ staticman:
 utterances:
   repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
   issue-term: title   # Mapping between blog posts and GitHub issues
-  theme: github-light # Utterances theme
+  theme: github-dark # Utterances theme
   label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 
